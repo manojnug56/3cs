@@ -7664,6 +7664,10 @@ textarea.form-control-lg {
   text-align: center !important;
 }
 
+.text-right {
+  text-align: right !important;
+}
+
 .text-decoration-none {
   text-decoration: none !important;
 }
@@ -11705,7 +11709,23 @@ header.masthead .masthead-heading {
 .img-brand {
   height: 2.75rem;
 }
-
+.list-group {
+  margin-bottom: 3rem;
+  text-align: left;
+}
+.awards {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.awards img {
+  width: 14rem;
+  height: 14rem;
+  border: 0.5rem solid rgba(0, 0, 0, 0.1);
+}
+.x
+{
+  font-size: small;
+}
 section#contact {
   background-color: #ffffff;
   background-image: url("../assets/img/map-image.png");
